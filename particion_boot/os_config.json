@@ -1,0 +1,13 @@
+{
+ "description" : "A port of Debian Stretch for the Raspberry Pi (full desktop version)",
+ "flavour" : "Raspbian",
+ "imagefolder" : "/mnt/os/Raspbian",
+ "keyboard" : "it",
+ "language" : "it",
+ "partitions" : [
+"/dev/mmcblk0p6",
+"/dev/mmcblk0p7"
+ ],
+ "release_date" : "2018-04-18",
+ "videomode" : 0
+}
